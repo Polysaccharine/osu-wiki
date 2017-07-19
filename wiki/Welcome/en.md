@@ -36,6 +36,8 @@
 # Welcome
 ![osu!][osu-boxart image]
 
+My first change!
+
 First of all we'd like to give you a warm welcome and hug for joining our community. Let us explain a few quick things before you start your journey.
 
 ## The Tutorial
